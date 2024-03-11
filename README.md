@@ -1,0 +1,1 @@
+# Small transactions that contain simple transactions such as purchases, sales, and calculating the remaining stock of goods
